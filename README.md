@@ -21,7 +21,6 @@ A=np.array([[2,2],[1,3]])
 values,vectors=np.linalg.eig(A)
 print("Eigen values are {} and Eigen Vectors are {}".format(values,vectors))
 ```
-
 ## Output:
 ![OUTPUT OF EXP](<Screenshot 2026-02-04 081420.png>)
 ## Result:
